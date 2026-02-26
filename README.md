@@ -64,9 +64,13 @@ plt.show()
 ```
 
 ## Output:
-<img width="797" height="387" alt="Screenshot 2026-02-26 104105" src="https://github.com/user-attachments/assets/f9771eda-c639-42d5-bb80-67b6f0f9bfc4" />
-
-
+<img width="1683" height="254" alt="Screenshot 2026-02-26 104038" src="https://github.com/user-attachments/assets/3e9a91cd-840d-4b1e-a5a0-d39812402a03" />
+<img width="797" height="387" alt="Screenshot 2026-02-26 104105" src="https://github.com/user-attachments/assets/548764ef-b1be-49db-9e70-04601f04c225" />
+<img width="688" height="207" alt="Screenshot 2026-02-26 104248" src="https://github.com/user-attachments/assets/ab109ea0-fe10-4c19-9a5f-3ba91fc3cc9f" />
+<img width="406" height="91" alt="Screenshot 2026-02-26 104259" src="https://github.com/user-attachments/assets/2643ac25-b947-4c38-b8c4-2162a39c66c4" />
+<img width="815" height="146" alt="Screenshot 2026-02-26 104327" src="https://github.com/user-attachments/assets/5ee95aca-6341-4a3d-be7d-47886205624d" />
+<img width="363" height="33" alt="Screenshot 2026-02-26 104348" src="https://github.com/user-attachments/assets/9aea052c-2d9f-4f9c-857a-e8106da790a0" />
+<img width="558" height="411" alt="Screenshot 2026-02-26 104410" src="https://github.com/user-attachments/assets/51eec748-f489-45b7-b33c-e4cd5e28d070" />
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
